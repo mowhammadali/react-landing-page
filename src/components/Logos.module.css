@@ -1,0 +1,20 @@
+.container{
+    text-align: center;
+    margin: 60px;
+}
+
+.container h3{
+    font-size: 40px;
+    font-weight: bold;
+    color: #505050;
+}
+
+.container .logos{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.logos img{
+    width: 300px;
+}

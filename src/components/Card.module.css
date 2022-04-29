@@ -1,0 +1,33 @@
+.container{
+    margin: 20px;
+    background-color: #ececec;
+    overflow: hidden;
+    box-shadow: 5px 5px 10px #bdbdbd;
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+}
+
+.container img{
+    width: 280px;
+}
+
+.container h3{
+    margin: 30px 20px 20px;
+    color: #696969;
+}
+
+.container p{
+    margin: 0 25px 20px;
+    background-color: #0a7537;
+    width: fit-content;
+    padding: 5px;
+    color: #fff;
+    border-radius: 15px;
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    -ms-border-radius: 15px;
+    -o-border-radius: 15px;
+}
