@@ -31,3 +31,31 @@
     -ms-border-radius: 15px;
     -o-border-radius: 15px;
 }
+
+.counter{
+    display: flex;
+    align-items: center;
+    border-top: 1px solid silver;
+}
+
+.counter img{
+    width: 20px;
+    margin: 20px;
+    cursor: pointer;
+}
+
+.counter span{
+    padding: 5px;
+    background-color: #3963cd;
+    color: #fff;
+    border-radius: 8px;
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    -ms-border-radius: 8px;
+    -o-border-radius: 8px;
+}
+
+.deactive{
+    opacity: .3;
+    cursor: auto !important;
+}
